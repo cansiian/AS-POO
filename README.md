@@ -11,6 +11,11 @@ Projeto da **AS de Programação Orientada a Objetos** — um sistema de locaç�
 
 A locadora trabalha com dois tipos de veículo, que compartilham os mesmos dados e as mesmas regras de aluguel, mas cobram preços por fórmulas diferentes. O desafio do projeto é justamente esse: escrever as regras comuns **uma única vez** e deixar que cada tipo defina apenas o seu próprio cálculo — sem nenhum `if`, `switch` ou `instanceof` para descobrir com que tipo de veículo o programa está lidando.
 
+
+## Link do Video 
+[Visualizar arquivo no Google Drive](https://drive.google.com/file/d/1tHNGzeBO9Z_ZP_nyCkVDfzgHw68Dbh9-/view?usp=sharing)
+
+
 ## Estrutura
 
 ```
